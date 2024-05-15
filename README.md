@@ -14,7 +14,9 @@
 This simple program is a solution to [this](https://jutge.org/problems/P11007_ca) problem from [jutge.org](https://jutge.org). 
 The solution is made using the [Pillow](https://pillow.readthedocs.io/en/stable/#) library as well as the [numpy](https://numpy.org/) library for the use of arrays.
 As the problem above explains, this program given a background colour,
-an alternate colour and a number of iterations $k$ generates a fractal of squares of dimension $(3^k, 3^{k})$ pixels.
+an alternate colour and a number of iterations $k$ generates a fractal of squares of dimension $(3^k, 3^{k})$ pixels. To run this code just execute the python file ```main.py```, write the two prompts and the image will be saved in your current directory as output.png.
+
+
 An example of this behaviour can be seen as follows:
 
 <center>
@@ -100,22 +102,6 @@ white
 <td>
 <div class='pixelated'>
 <img src='images/image5.png' width='150'>
-</div>
-</td>
-</tr>
-<tr>
-<td>
-
-```
-moccasin
-red
-6
-```
-
-</td>
-<td>
-<div class='pixelated'>
-<img src='images/image6.png' width='150'>
 </div>
 </td>
 </tr>
