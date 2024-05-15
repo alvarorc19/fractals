@@ -6,7 +6,7 @@ As the problem above explains, this program given a background colour,
 an alternate colour and a number of iterations $k$ generates a fractal of squares of dimension $(3^k, 3^{k})$ pixels.
 An example of this behaviour can be seen as follows:
 
-
+<center>
 <table>
 <tr>
 <th>Input</th>
@@ -42,4 +42,4 @@ beige
 </td>
 </tr>
 </table>
-
+</center>
