@@ -36,7 +36,12 @@ beige
 
 </td>
 <td>
-<div class='pixelated'>
+<div style='  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: optimize-contrast;
+  image-rendering: pixelated;
+  -ms-interpolation-mode: nearest-neighbor;'>
 <img src='images/image1.png' width='150'>
 </div>
 </td>
