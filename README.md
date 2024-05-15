@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 .pixelated{
   image-rendering: -moz-crisp-edges;
   image-rendering: -o-crisp-edges;
@@ -7,7 +7,7 @@
   image-rendering: pixelated;
   -ms-interpolation-mode: nearest-neighbor;
 }
-</style>
+</style> -->
 
 # Square fractals
 
@@ -36,7 +36,7 @@ beige
 
 </td>
 <td>
-<div class='pixelated'>
+<div style=''>
 <img src='images/image1.png' width='150'>
 </div>
 </td>
