@@ -36,11 +36,7 @@ beige
 
 </td>
 <td>
-<<<<<<< HEAD
-<div style=''>
-=======
-<div style='image-rendering: -moz-crisp-edges;image-rendering: -o-crisp-edges;image-rendering: -webkit-optimize-contrast;image-rendering: optimize-contrast;image-rendering: pixelated;-ms-interpolation-mode: nearest-neighbor;'>
->>>>>>> 114a567119c660e362104346a781c4d435a004b6
+<div class='pixelated'>
 <img src='images/image1.png' width='150'>
 </div>
 </td>
