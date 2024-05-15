@@ -37,7 +37,7 @@ beige
 </td>
 <td>
 <div class='pixelated'>
-<img src='images/image1fix.png' width='150'>
+<img src='images/image1.png' width='150'>
 </div>
 </td>
 </tr>
@@ -53,7 +53,7 @@ blue
 </td>
 <td>
 <div class='pixelated'>
-<img src='images/image2fix.png' width='150'>
+<img src='images/image2.png' width='150'>
 </div>
 </td>
 </tr>
@@ -69,7 +69,7 @@ purple
 </td>
 <td>
 <div class='pixelated'>
-<img src='images/image3fix.png' width='150'>
+<img src='images/image3.png' width='150'>
 </div>
 </td>
 </tr>
@@ -85,7 +85,7 @@ blue
 </td>
 <td>
 <div class='pixelated'>
-<img src='images/image4fix.png' width='150'>
+<img src='images/image4.png' width='150'>
 </div>
 </td>
 </tr>
