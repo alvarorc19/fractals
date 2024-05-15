@@ -107,3 +107,5 @@ white
 </tr>
 </table>
 </center>
+
+**Disclaimer:** after 6 iterations it takes a long time to process due to the amount of pixels. Also, the pictures for the small $k$ are very small, and therefore of low resolution; not of the definition as the ones seen above.
